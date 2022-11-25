@@ -1,0 +1,28 @@
+.perguntas{
+    font-size:40px;
+    text-align: center;
+}
+
+.respostas{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+
+.lista{
+    text-align:center;
+    font-size:30px;
+    color: #6000aa
+}
+
+img{
+    display: block;
+    margin: 0px auto;
+    width: 50%;
+}
+
+header {
+    font-size: 60px;
+    text-align:center;
+    
+}
